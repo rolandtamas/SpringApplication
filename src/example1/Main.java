@@ -1,6 +1,4 @@
 package example1;
-import example1.Circle;
-import example1.Rectangle;
 
 class Main {
 

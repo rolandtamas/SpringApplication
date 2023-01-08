@@ -1,6 +1,4 @@
 package example2;
-import example2.Figure;
-
 
 public class Main {
 
